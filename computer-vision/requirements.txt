@@ -1,5 +1,5 @@
 get-mnist==1.0.1
-joblib==1.1.0
+joblib==1.2.0
 numpy==1.22.0
 pkg_resources==0.0.0
 scikit-learn==1.0
